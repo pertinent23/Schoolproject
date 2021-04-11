@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1609691467 source:c:\users\user\desktop\c project\project 2020\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1612167417 c:\users\user\desktop\c project\project 2020\fn_list.h
+	"type.h"
+	"tools.h"
+
+1609836015 c:\users\user\desktop\c project\project 2020\type.h
+
+1612345839 c:\users\user\desktop\c project\project 2020\tools.h
+	<string.h>
+	"type.h"
+
+1611996689 c:\users\user\desktop\c project\project 2020\menu.h
+	"fn_list.h"
+

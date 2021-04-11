@@ -1,0 +1,9 @@
+545485;phy;bios
+4545485;bios;phy
+45485;bios;phys
+545454;math;chimie
+4545454;bios;phy
+55454545;phy;math
+256256;chim;phy
+545445444;bios;chi
+1545485;BIOS;CHIMIE
